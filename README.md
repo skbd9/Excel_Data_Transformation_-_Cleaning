@@ -18,7 +18,10 @@ Welcome to Data Transformation and Analysis project! In this repository, I've me
 The resulting structured data provides a clear view of sales figures categorized by ship modes, segments, and order dates. This organized dataset serves as a foundation for insightful analysis and visualization.
 
 
-https://github.com/skbd9/Excel_Data_Transformation_-_Cleaning/assets/108250623/722809e0-a47c-44bb-9a27-bacb64c46131
+
+https://github.com/skbd9/Excel_Data_Transformation_-_Cleaning/assets/108250623/a8ab924d-de05-40ca-a03a-ce90a9d1e44b
+
+
 Picture tells word.
 ![1](https://github.com/skbd9/Excel_Data_Transformation_-_Cleaning/assets/108250623/3aad3de2-c570-4b35-bdd5-30959a1b9ddb)
 
